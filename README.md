@@ -62,7 +62,3 @@ I am a skilled and experienced full-stack developer with a strong background in 
 <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-1a202c?style=flat-square&logo=prisma&logoColor=white" />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-# What Happened 😵❓
-
-## <p>If you are in a spaceship that is traveling at the speed of light, and you turn on the headlights, does anything happen ?<p>
