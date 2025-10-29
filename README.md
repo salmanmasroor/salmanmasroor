@@ -57,6 +57,8 @@ I am a skilled and experienced full-stack developer with a strong background in 
 ---
 
 ## ⚡ Other Tools I Use
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F?style=flat-square&logo=soapui&logoColor=white)
+![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white)
+
