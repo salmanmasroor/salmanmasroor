@@ -5,11 +5,6 @@
 
 I am a skilled and experienced full-stack developer with a strong background in web development, software engineering, and database management. I have extensive experience in designing, developing, and deploying web applications.I am a self-motivated individual who is always eager to learn new technologies and stay up-to-date with the latest industry trends. I am a team player who can work well with others to deliver high-quality projects on time.I am currently available for work and open to new opportunities. If you are looking for a full-stack developer who can bring your ideas to life and help your business grow, please feel free to reach out to me.
 
-[![GitHub Badge](https://img.shields.io/badge/-jaxkashif34-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaxkashif34)](https://github.com/jaxkashif34)
-[![Linkedin Badge](https://img.shields.io/badge/-jaxkashif34-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashif-ali-ba8241196/)](https://www.linkedin.com/in/kashif-ali-ba8241196/)
-[![StackOverflow Badge](https://img.shields.io/badge/-jaxkashif34-FE7A16?style=flat&-square&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/16268028/kashif-ali)
-[![Gmail Badge](https://img.shields.io/badge/-jaxkashif34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaxkashif34@gmail.com)](mailto:jaxkashif34@gmail.com)
-
 - 🏢 I'm currently working on ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript)
@@ -34,12 +29,34 @@ I am a skilled and experienced full-stack developer with a strong background in 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-## ⚡ Technologies
+## ⚙️ Current Focus
+**Python Automation & DevOps**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?&logo=Express.JS)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A42E2B?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 🪙 Previous Experience
+**Blockchain Development**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## ⚡ Other Tools I Use
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
