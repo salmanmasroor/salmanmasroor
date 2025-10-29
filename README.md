@@ -29,7 +29,7 @@ I am a skilled and experienced full-stack developer with a strong background in 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-## ⚙️ Current Focus
+### ⚙️ Current Focus
 **Python Automation & DevOps**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,17 +37,15 @@ I am a skilled and experienced full-stack developer with a strong background in 
 
 ---
 
-## 🔗 Previous Experience
-**Blockchain Development**
-
-### 🔒 Private Blockchain
+### 🔗 Previous Experience — Blockchain Development
+**Private Blockchain:**  
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🌐 Public Blockchain
+**Public Blockchain:**  
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=javascript&logoColor=white)
@@ -56,9 +54,8 @@ I am a skilled and experienced full-stack developer with a strong background in 
 
 ---
 
-## ⚡ Other Tools I Use
+### 🛠️ Other Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F?style=flat-square&logo=soapui&logoColor=white)
+![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F?style=flat-square&logoColor=white)
 ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white)
-
