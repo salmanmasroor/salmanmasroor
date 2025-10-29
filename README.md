@@ -29,8 +29,7 @@ I am a skilled and experienced full-stack developer with a strong background in 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-### ⚙️ Current Focus
-**Python Automation & DevOps**
+### ⚙️ Current Focus — Python Automation
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
