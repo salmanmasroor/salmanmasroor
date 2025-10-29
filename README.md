@@ -36,7 +36,7 @@ I am a skilled and experienced full-stack developer with a strong background in 
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?&logo=Express.JS)
