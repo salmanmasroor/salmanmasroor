@@ -30,19 +30,31 @@ I am a skilled and experienced full-stack developer with a strong background in 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 ---
-⚡️ Experience
----
-### 🧩 Python Developer — Automation  
+
+### ⚡️ Experience Highlights
+
+#### 🧩 Python Developer — Automation
+> Automating business processes and API integrations using Python.
+
+**Key Skills:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)
+![Zeep](https://img.shields.io/badge/-Zeep-2F3134?&logo=python)
+![SOAP](https://img.shields.io/badge/-SOAP-FF6C37?&logo=soap)
+![REST](https://img.shields.io/badge/-REST-121011?&logo=rest)
 
+**Impact:**  
+- Reduced manual data entry time by **70%** using automated API workflows.  
+- Integrated Salesforce and SAP for seamless order management.  
+- Designed reusable automation frameworks for internal use.
 
-### ⛓️ Research Assistant — Blockchain Development  
+---
+
+#### ⛓️ Research Assistant — Blockchain Development
 
 **Private Blockchain:**  
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?&logo=hyperledger)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-404D59?&logo=express)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker)
 ![Bash](https://img.shields.io/badge/-Bash-121011?&logo=gnu-bash)
 
@@ -51,13 +63,9 @@ I am a skilled and experienced full-stack developer with a strong background in 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?&logo=solidity)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?&logo=javascript)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-1a1a1a?&logo=hardhat)
-![Ganache](https://img.shields.io/badge/-Ganache-272822?&logo=ethereum)
+
+**Impact:**  
+- Contributed to smart contract R&D for token standards and privacy models.  
+- Deployed test networks using Docker and Hyperledger Fabric.  
 
 ---
-
-### 🧰 Tools I Use
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=postman)
-![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F)
-![Spyder](https://img.shields.io/badge/-Spyder-FF0000?&logo=spyder-ide)
-
