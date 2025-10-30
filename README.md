@@ -10,29 +10,19 @@ I am a skilled and experienced full-stack developer with a strong background in 
 [![StackOverflow Badge](https://img.shields.io/badge/-jaxkashif34-FE7A16?style=flat&-square&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/16268028/kashif-ali)
 [![Gmail Badge](https://img.shields.io/badge/-jaxkashif34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaxkashif34@gmail.com)](mailto:jaxkashif34@gmail.com)
 
-- 🏢 I'm currently working on ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-- 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-3b2e5a?&logo=react)
-  ![Git](https://img.shields.io/badge/-Git-black?&logo=git)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
-- 💻 I work using:
-  ![React](https://img.shields.io/badge/-React-3b2e5a?&logo=react)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?&logo=material-UI)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql)
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
-- ⚙️ I also use and work:
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap)
-- 🌱 Learning all about:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?&logo=Node.js)
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?&logo=Express.JS)
-  ![Graphql](https://img.shields.io/badge/-Graphql-E10098?&logo=Graphql)
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+🏢 Currently working on: Python Automation & API Integration Projects
+
+💻 Tech I work with daily: Python, Pandas, Zeep, Git, VS Code, Postman
+
+⚙️ Main tools & platforms: Salesforce API, SAP SOAP (Zeep), Firebase, PostgreSQL
+
+🌱 Learning next: FastAPI, Airflow, Docker, Cloud Functions
+
+🔍 Interested in: Data pipelines, backend automation, system integrations
+
+⚡ Fun fact: Iron Man fan 🦾 | Love food 🍜 and travel 🌍
+
+🤝 Open to: Freelance automation work & collaborations
 
 ## ⚡ Technologies
 
