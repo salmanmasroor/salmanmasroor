@@ -29,32 +29,55 @@ I am a skilled and experienced full-stack developer with a strong background in 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-### ⚙️ Current Focus — Python Automation
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### 🧩 Current Focus — Python Automation  
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)
+![Zeep](https://img.shields.io/badge/-Zeep-FFD43B?&logo=soap)
+![Salesforce API](https://img.shields.io/badge/-Salesforce-00A1E0?&logo=salesforce)
+
+> Building data automation and integration pipelines that save time and boost productivity ⚙️
 
 ---
 
-### 🔗 Previous Experience — Blockchain Development
+### ⛓️ Previous Experience — Blockchain Development  
+
 **Private Blockchain:**  
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?&logo=hyperledger)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?&logo=express)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker)
+![Bash](https://img.shields.io/badge/-Bash-121011?&logo=gnu-bash)
 
 **Public Blockchain:**  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=javascript&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-1a1a1a?style=flat-square&logo=hardhat&logoColor=F7DF1E)
-![Ganache](https://img.shields.io/badge/-Ganache-272822?style=flat-square&logo=ethereum&logoColor=orange)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?&logo=ethereum)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?&logo=solidity)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?&logo=javascript)
+![Hardhat](https://img.shields.io/badge/-Hardhat-1a1a1a?&logo=hardhat)
+![Ganache](https://img.shields.io/badge/-Ganache-272822?&logo=ethereum)
 
 ---
 
-### 🛠️ Other Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F?style=flat-square&logoColor=white)
-![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white)
+### 🧰 Tools I Use
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=postman)
+![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F)
+![Spyder](https://img.shields.io/badge/-Spyder-FF0000?&logo=spyder-ide)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  💬 <b>Let's Connect!</b>  
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" /></a>
+</p>
