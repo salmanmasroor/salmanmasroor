@@ -30,14 +30,12 @@ I am a skilled and experienced full-stack developer with a strong background in 
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 ---
-
-### 🧩 Current Focus — Python Automation  
+⚡️ Experience
+---
+### 🧩 Python Developer — Automation  
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)
 
-> Building data automation and integration pipelines that save time and boost productivity ⚙️
-
----
 
 ### ⛓️ Research Assistant — Blockchain Development  
 
