@@ -34,14 +34,12 @@ I am a skilled and experienced full-stack developer with a strong background in 
 ### 🧩 Current Focus — Python Automation  
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)
-![Zeep](https://img.shields.io/badge/-Zeep-FFD43B?&logo=soap)
-![Salesforce API](https://img.shields.io/badge/-Salesforce-00A1E0?&logo=salesforce)
 
 > Building data automation and integration pipelines that save time and boost productivity ⚙️
 
 ---
 
-### ⛓️ Previous Experience — Blockchain Development  
+### ⛓️ Research Assistant — Blockchain Development  
 
 **Private Blockchain:**  
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?&logo=hyperledger)
@@ -65,19 +63,3 @@ I am a skilled and experienced full-stack developer with a strong background in 
 ![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F)
 ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?&logo=spyder-ide)
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
----
-
-<p align="center">
-  💬 <b>Let's Connect!</b>  
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" /></a>
-</p>
