@@ -1,20 +1,16 @@
-👋 Hi, I'm a Software Developer
+# 👋 Hi, I'm a Software Developer
 
-I'm a Software Developer with strong experience in Python and Django, focused on building scalable backend systems, automation solutions, and intelligent document processing.
+I'm a **Software Developer** with strong experience in **Python and Django**, focused on building scalable backend systems, automation solutions, and intelligent document processing.
 
-🚀 What I Do
+## 🚀 What I Do
 
-Develop and maintain backend applications using Python, Django, and PostgreSQL
+* Develop and maintain backend applications using **Python, Django, and PostgreSQL**
+* Build **OCR-based document processing** and workflow automation systems
+* Work on **system integrations** between platforms like **Salesforce and SAP**
+* Handle **bug fixing, performance optimization, and application maintenance**
+* Explore and integrate **LLM solutions using OpenAI**
 
-Build OCR-based document processing and workflow automation systems
-
-Work on system integrations between platforms like Salesforce and SAP
-
-Handle bug fixing, performance optimization, and application maintenance
-
-Explore and integrate LLM solutions using OpenAI
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
