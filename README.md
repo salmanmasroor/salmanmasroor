@@ -23,15 +23,6 @@ Readme · MD
 
 ---
 
-```bash
-visitor@github:~$ cat ./about_me.txt
-
-  Name    : Muhammad Salman Masroor
-  Handle  : salmanmasroor
-  Designation : Junior Python Developer
-
-```
-
 ---
 
 ## `> tech.stack`
@@ -39,16 +30,10 @@ visitor@github:~$ cat ./about_me.txt
 **Languages**
 
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 **Frameworks & Tools**
 
-[![React Native](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-[![Streamlit](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
