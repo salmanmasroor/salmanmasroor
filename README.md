@@ -1,45 +1,135 @@
-# 👋 Hi, I'm a Software Developer
+<div align="center">
 
-I'm a **Software Developer** with strong experience in **Python and Django**, focused on building scalable backend systems, automation solutions, and intelligent document processing.
 
-## 🚀 What I Do
 
-* Develop and maintain backend applications using **Python, Django, and PostgreSQL**
-* Build **OCR-based document processing** and workflow automation systems
-* Work on **system integrations** between platforms like **Salesforce and SAP**
-* Handle **bug fixing, performance optimization, and application maintenance**
-* Explore and integrate **LLM solutions using OpenAI**
+Readme · MD
+```
+███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗ 
+████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ 
+ 
+███████╗ █████╗ ██╗     ███╗   ███╗ █████╗ ███╗   ██╗
+██╔════╝██╔══██╗██║     ████╗ ████║██╔══██╗████╗  ██║
+███████╗███████║██║     ██╔████╔██║███████║██╔██╗ ██║
+╚════██║██╔══██║██║     ██║╚██╔╝██║██╔══██║██║╚██╗██║
+███████║██║  ██║███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-## 🛠️ Tech Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+FAST-NUCES+Fsd;AI+%7C+Computer+Vision+%7C+Full-Stack+Dev;Building+clean%2C+functional+software+%F0%9F%9F%A2;she%2Fher+%C2%B7+Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
-### Frontend
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+---
 
-### Backend & Database
+```bash
+visitor@github:~$ cat ./about_me.txt
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+  Name    : Muhammad Salman Masroor
+  Handle  : salmanmasroor
+  Designation : Junior Python Developer
 
-### Automation & AI
+```
 
-![OCR](https://img.shields.io/badge/OCR-Document_Processing-blue?style=flat-square)
-![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-success?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-LLM-412991?style=flat-square\&logo=openai\&logoColor=white)
+---
 
-### Tools & Version Control
+## `> tech.stack`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-API_Testing-green?style=flat-square)
+**Languages**
 
-## 📌 Interests
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
-* Backend architecture & scalability
-* Automation and AI-driven solutions
-* Clean, maintainable code
+**Frameworks & Tools**
 
+[![React Native](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+[![Streamlit](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+---
+
+## `> github.stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Machaudhary2024&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaudhary2024&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Machaudhary2024&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> pinned.projects`
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**⬡ Wombly**](https://github.com/Machaudhary2024/Wombly) | Maternal health & toddler care mobile app | `JavaScript` `React Native` |
+| [**⬡ DCGAN-WGANgp**](https://github.com/Machaudhary2024/DCGAN-WGANgp) | GAN comparison on anime/Pokémon · BCE vs Wasserstein loss | `Python` `PyTorch` |
+| [**⬡ sketch-to-photo-pix2pix**](https://github.com/Machaudhary2024/sketch-to-photo-pix2pix) | Conditional GAN · U-Net + PatchGAN for sketch→photo | `Python` `PyTorch` |
+| [**⬡ NSMNIA-wardrobe**](https://github.com/Machaudhary2024/NSMNIA-wardrobe) | E-commerce front-end for a Pakistani fashion brand | `HTML` `CSS` |
+| [**⬡ NoiseLab**](https://github.com/Machaudhary2024/NoiseLab) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
+
+---
+
+## `> currently.working_on`
+
+```python
+current = {
+    "learning"  : ["Advanced GANs", "Diffusion Models", "MLOps"],
+    "building"  : "Next cool project — stay tuned 👀",
+    "reading"   : "Deep Learning by Goodfellow, Bengio & Courville",
+    "goal_2025" : "Ship 3 impactful ML projects & land a great internship",
+}
+```
+
+---
+
+## `> activity.graph`
+
+<div align="center">
+
+[![Mehar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Machaudhary2024&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> contact.init()`
+
+```python
+contact = {
+    "github"  : "github.com/Machaudhary2024",
+    "uni"     : "FAST-NUCES Faisalabad",
+    "status"  : "Open to collabs & opportunities 🟢",
+}
+
+print("Let's build something cool together!")
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Machaudhary2024-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/Machaudhary2024)
+![Visitors](https://komarev.com/ghpvc/?username=Machaudhary2024&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
+
+</div>
+
+---
+
+<div align="center">
+  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
+</div>
