@@ -53,8 +53,8 @@ Readme · MD
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Machaudhary2024-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/Machaudhary2024)
-![Visitors](https://komarev.com/ghpvc/?username=Machaudhary2024&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
+[![GitHub](https://img.shields.io/badge/GitHub-salmanmasroor-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/salmanmasroor)
+![Visitors](https://komarev.com/ghpvc/?username=salmanmasroor&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
 
 </div>
 
