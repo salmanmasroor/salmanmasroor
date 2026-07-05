@@ -58,8 +58,4 @@ Readme · MD
 
 </div>
 
----
 
-<div align="center">
-  <sub><code>// turning ideas into clean, functional software · one commit at a time</code></sub>
-</div>
