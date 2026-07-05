@@ -23,7 +23,6 @@ Readme · MD
 
 ---
 
----
 
 ## `> tech.stack`
 
@@ -38,47 +37,6 @@ Readme · MD
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
----
-
-## `> github.stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Machaudhary2024&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c8fcd8&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machaudhary2024&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c8fcd8&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Machaudhary2024&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `> pinned.projects`
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**⬡ Wombly**](https://github.com/Machaudhary2024/Wombly) | Maternal health & toddler care mobile app | `JavaScript` `React Native` |
-| [**⬡ DCGAN-WGANgp**](https://github.com/Machaudhary2024/DCGAN-WGANgp) | GAN comparison on anime/Pokémon · BCE vs Wasserstein loss | `Python` `PyTorch` |
-| [**⬡ sketch-to-photo-pix2pix**](https://github.com/Machaudhary2024/sketch-to-photo-pix2pix) | Conditional GAN · U-Net + PatchGAN for sketch→photo | `Python` `PyTorch` |
-| [**⬡ NSMNIA-wardrobe**](https://github.com/Machaudhary2024/NSMNIA-wardrobe) | E-commerce front-end for a Pakistani fashion brand | `HTML` `CSS` |
-| [**⬡ NoiseLab**](https://github.com/Machaudhary2024/NoiseLab) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
-
----
-
-## `> currently.working_on`
-
-```python
-current = {
-    "learning"  : ["Advanced GANs", "Diffusion Models", "MLOps"],
-    "building"  : "Next cool project — stay tuned 👀",
-    "reading"   : "Deep Learning by Goodfellow, Bengio & Courville",
-    "goal_2025" : "Ship 3 impactful ML projects & land a great internship",
-}
-```
 
 ---
 
@@ -86,23 +44,12 @@ current = {
 
 <div align="center">
 
-[![Mehar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Machaudhary2024&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Salman github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanmasroor&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## `> contact.init()`
-
-```python
-contact = {
-    "github"  : "github.com/Machaudhary2024",
-    "uni"     : "FAST-NUCES Faisalabad",
-    "status"  : "Open to collabs & opportunities 🟢",
-}
-
-print("Let's build something cool together!")
-```
 
 <div align="center">
 
