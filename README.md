@@ -1,7 +1,7 @@
-<div align="center">
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/584b66b6-f884-46ba-bfc4-96930d0bce2d" /><div align="center">
 
 # Salman Masroor
-### Python Developer | Backend Development | SQL & PostgreSQL
+### Python Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-salmanmasroor-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/salmanmasroor)
 
