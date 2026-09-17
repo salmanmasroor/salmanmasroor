@@ -1,57 +1,70 @@
 <div align="center">
 
-# Hi, I'm Salman 👋
-### Backend Developer | Python & Django
+# Salman Masroor
+### Python Developer | Backend Development | SQL & PostgreSQL
 
 [![GitHub](https://img.shields.io/badge/GitHub-salmanmasroor-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/salmanmasroor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=161b22)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=161b22)](mailto:YOUR-EMAIL-HERE)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a backend-focused developer who builds clean, well-structured applications using **Python** and **Object-Oriented Programming** principles, backed by solid **SQL / PostgreSQL** database design. Comfortable working in collaborative, version-controlled environments with **Git & GitHub**.
-
-- 🔭 Currently working on: *[project name]*
-- 🌱 Currently learning: *[e.g. Django REST Framework, Docker]*
-- 💬 Ask me about: Python, OOP design, SQL/PostgreSQL
-- 📫 Reach me at: *[your email]*
+I'm a Python developer focused on building clean, maintainable, and practical backend applications. I enjoy working with **Python**, object-oriented programming, **SQL**, **PostgreSQL**, and **Django**, with an emphasis on writing reliable and understandable code.
 
 ---
 
 ## 🛠️ Core Skills
 
-**Programming**
+- 🐍 **Python** — OOP, clean code, scripting, backend development
+- 🌐 **Django** — web applications and backend development
+- 🗄️ **SQL** — queries, joins, aggregations, data manipulation
+- 🐘 **PostgreSQL** — relational database design and management
+- 🔧 **Git & GitHub** — version control, branching, collaboration
+
+---
+
+## 💼 What I Work On
+
+- Backend applications with Python and Django
+- Database-driven applications
+- REST APIs and server-side logic
+- Object-oriented software design
+- SQL queries and PostgreSQL databases
+- Writing maintainable and reusable code
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Database**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Concepts**
-![OOP](https://img.shields.io/badge/OOP-Design-informational?style=for-the-badge&labelColor=161b22&color=00cc66)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Version Control**
+**Framework**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-> Replace these with 2–4 of your best repos. Recruiters check pinned projects first — make them count.
+Check out my repositories to see examples of my work, including Python applications, Django projects, and database-driven projects.
 
-### 🔹 [Project Name](https://github.com/salmanmasroor/repo-link)
-Short 1–2 line description: what it does, why it matters, and the problem it solves.
-**Stack:** Python · PostgreSQL · OOP design
+<div align="center">
 
-### 🔹 [Project Name](https://github.com/salmanmasroor/repo-link)
-Short 1–2 line description focused on the outcome or result, not just the tech.
-**Stack:** Python · SQL
+[![GitHub Repos](https://img.shields.io/badge/View%20My%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/salmanmasroor?tab=repositories)
+
+</div>
 
 ---
 
@@ -77,8 +90,11 @@ Short 1–2 line description focused on the outcome or result, not just the tech
 
 ---
 
+## 🔗 Connect
+
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-salmanmasroor-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/salmanmasroor)
 ![Visitors](https://komarev.com/ghpvc/?username=salmanmasroor&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
 
 </div>
