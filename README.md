@@ -1,4 +1,4 @@
-<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/584b66b6-f884-46ba-bfc4-96930d0bce2d" /><div align="center">
+
 
 # Salman Masroor
 ### Python Developer
