@@ -15,15 +15,6 @@ I'm a Python developer focused on building clean, maintainable, and practical ba
 
 ---
 
-## 🛠️ Core Skills
-
-- 🐍 **Python** — OOP, clean code, scripting, backend development
-- 🌐 **Django** — web applications and backend development
-- 🗄️ **SQL** — queries, joins, aggregations, data manipulation
-- 🐘 **PostgreSQL** — relational database design and management
-- 🔧 **Git & GitHub** — version control, branching, collaboration
-
----
 
 ## 💼 What I Work On
 
