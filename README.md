@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # Salman Masroor
 ### Python Developer
