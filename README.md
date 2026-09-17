@@ -54,41 +54,6 @@ I'm a Python developer focused on building clean, maintainable, and practical ba
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📌 Projects
-
-Check out my repositories to see examples of my work, including Python applications, Django projects, and database-driven projects.
-
-<div align="center">
-
-[![GitHub Repos](https://img.shields.io/badge/View%20My%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=161b22)](https://github.com/salmanmasroor?tab=repositories)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanmasroor&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00cc66&text_color=c9d1d9&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmasroor&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&hide_border=true)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Salman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanmasroor&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🔗 Connect
 
